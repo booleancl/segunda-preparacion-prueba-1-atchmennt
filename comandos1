@@ -2,6 +2,8 @@
 
 # Agregar las instrucciones para crear la estructura de carpetas
 cd distribuidora
+mkdir clientes 
+cd clientes
 mkdir quinta region 
 mkdir santiago
 mkdir sexta-region 
