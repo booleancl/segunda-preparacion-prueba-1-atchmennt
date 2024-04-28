@@ -4,10 +4,10 @@
 cd distribuidora
 mkdir clientes 
 cd clientes
-mkdir quinta region 
+mkdir quinta-region 
 mkdir santiago
 mkdir sexta-region 
-cd quinta region 
+cd quinta-region 
 touch lista.xls
 cd ..
 cd santiago 
@@ -16,9 +16,6 @@ cd la-pintana
 touch lista.xls
 cd ..
 mkdir maipu
-cd maipu
-touch lista.xls
-cd ..
 cd maipu
 touch lista.xls
 cd ..
